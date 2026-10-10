@@ -1,4 +1,12 @@
-# TuneGate
+
+
+## TuneGate
+Pay-per-track music dApp on Monad Testnet. Fans unlock a track with a small MON payment, which goes directly to the artist.
+
+- Network: Monad Testnet (chain ID 10143)
+- Contract: 0x3F234A4df0Ba04ECCD797Eee57e257809E184f93
+- Deploy tx: https://testnet.monadvision.com/tx/0xda60d302724305e082a3bded54e36dbb87b5bf5fcb0dc3b7a5faf8d682a3d2ef
+- Sample audio from Pixabay
 
 TuneGate is a small music-unlock dApp for Monad testnet. The contract stores track titles, MON prices, artist payout addresses, and fan access. Three short, original audio samples live in the frontend's `public/audio` folder; no audio is uploaded to a server.
 
